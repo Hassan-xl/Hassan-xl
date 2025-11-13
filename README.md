@@ -1,146 +1,149 @@
-<!-- Header GIF -->
+<!-- Animated Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Hassan-xl/Hassan-xl/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Hassan Ali</h1>
-<h3 align="center">AI Engineer • Automation Developer • Cognitive Systems Enthusiast</h3>
+<h1 align="center">🚀 Hassan Ali</h1>
+<h3 align="center">AI Engineer • Automation Developer • Cognitive Systems Researcher</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hassanxl">LinkedIn</a> •
-  <a href="https://github.com/Hassan-xl">GitHub</a> •
-  <a href="mailto:jonnyxl2004@gmail.com">Email</a>
+  <a href="mailto:jonnyxl2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/hassanxl">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/Hassan-xl">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </p>
 
 ---
 
-## 🚀 **About Me**
+## 🧠 About Me
 
-I'm Hassan Ali — a passionate AI Engineer currently pursuing a **Bachelor’s degree in Artificial Intelligence** at  
-**Pak-Austria Fachhochschule (PAF-IAST)**.
+Hi, I’m **Hassan Ali**, an AI Engineer passionate about building:
 
-I work at the intersection of:
+- ⚡ Scalable automation systems  
+- 🧠 Cognitive & memory-preserving AI  
+- 🤖 Intelligent agents and RAG systems  
+- 🏗️ Real-world AI applications for businesses  
 
-- 🤖 **AI & Automation**
-- 🧠 **Artificial Consciousness & Memory Modeling**
-- 🛠️ **Scalable Intelligent Systems**
-- 💡 **Cognitive Replica & Digital Identity Preservation**
-
-I love building systems that blend automation with cognition — enabling smarter workflows, self-improving agents, and human-like digital entities.
+Currently pursuing **BSc. Artificial Intelligence at PAF-IAST**, exploring the future of **digital identity replication** and **machine cognition**.
 
 ---
 
-## 💼 **Work Experience**
+# ⚙️ Tech Stack & Tools  
+### **Beautiful Visual Grid with Logos**
 
-### **AI Intern — AI Nova (United Kingdom, Remote)**  
-*Jun 2025 – Aug 2025*  
-- Web automation for enterprise systems  
-- Fine-tuning RAG models for improved retrieval accuracy  
-- Automated device interaction using **Selenium**  
-- Large-scale **web scraping & dataset generation**
+### 💻 **Programming Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,php,js,html,css"/>
+</p>
 
-### **Software / Automation Intern — Lean Automation (Pakistan, Remote)**  
-*May 2024 – Aug 2024*  
-- Database hosting & MySQL management  
-- Landing pages using **HTML, CSS, JS, PHP**  
-- Workflow automation to streamline business processes  
-- Managing & optimizing **GoHighLevel CRM**  
+### 🔧 **Frameworks & Libraries**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flask,pytorch"/>
+  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=ai&logoColor=black"/>
+</p>
+
+### 🗄️ **Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
+
+### 🛠️ **DevOps & Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,anaconda,linux,figma"/>
+</p>
+
+### 🌐 **Automation**
+<p>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GoHighLevel-3E64FF?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
 
 ---
 
-## 🧠 **Current Research**
+# 🚀 Featured Projects
 
-### 🏠🌳👤 **HTP Psychological Drawing Analysis (YOLOv8)**  
-ML model to analyze hand-drawn House-Tree-Person psychological tests.
-
-### 🧬 **AI-Based Cognitive Replica & Digital Memory Preservation**  
-Exploring identity continuity, neural memory capture, and long-term digital cognition.
-
----
-
-## 🧩 **Featured Projects**
-
-### 📊 **ClassPulse — Real-Time Classroom Engagement (Flask + SocketIO)**  
+### 🎓 **ClassPulse — Real-Time Classroom Engagement**
+📌 *Flask + SocketIO*  
 🔗 https://github.com/Hassan-xl/ClassPulse-RealTime-Classroom-Engagement  
-A local-network engagement dashboard for teachers with real-time reactions & activity monitoring.
+Real-time class monitoring dashboard for teachers over a local network.
 
-### 🤖💬 **BizBot — WhatsApp Business AI Assistant**  
+---
+
+### 🤖 **BizBot — WhatsApp Business AI Assistant**  
 🔗 https://github.com/Hassan-xl/BizBot-WhatsApp-Business-Connector  
-AI assistant integrated with WhatsApp Business API to help users discover local services.
+AI assistant to help users find local services automatically.
 
-### 🍕 **Pizza Customizer App (React + Next.js + Tailwind)**  
+---
+
+### 🍕 **Pizza Slice Customizer — React + Next.js**  
 🔗 https://github.com/Hassan-xl/pizza-slice-customizer  
-Interactive pizza builder with dynamic pricing & real-time SVG visuals.
+Interactive real-time pizza builder with dynamic pricing.
 
-### 👨‍🍳 **StudyChef — AI Cooking Agent for Students**  
+---
+
+### 🍳 **StudyChef — Budget Cooking AI Agent**  
 🔗 https://github.com/Hassan-xl/StudyChef-AI  
-Recommends budget-friendly meals using NLP, ingredient analysis & calorie estimation.
+Suggests meals using NLP + calorie estimation.
 
-### ☁️ **DriveCloner API — Automated GDrive Backup System**  
+---
+
+### ☁️ **DriveCloner API — Automated Cloud Backup System**  
 🔗 https://github.com/Hassan-xl/Drive-cloner-api  
-Recursive Google Drive folder cloning via REST API.
+Fully automated Google Drive folder cloning using REST API.
+
+---
 
 ### 🧠 **NeuroScope — Neural Network Visualizer**  
 🔗 https://github.com/Hassan-xl/NeuroScope  
-Inspect model layers, weights & activations in real-time using Tkinter + PyTorch.
+Live visualization of layers, activations & weights.
 
 ---
 
-## 🛠️ **Tech Stack**
+# 🔬 Research Work  
+### 🏠🌳👤 **HTP Psychological Drawing Analysis (YOLOv8)**  
+Machine learning model analyzing human-drawn psychological images.
 
-### **Languages**
-`Python` • `C++` • `PHP` • `JavaScript` • `HTML` • `CSS`
-
-### **AI & Automation**
-`PyTorch` • `YOLOv8` • `RAG Pipelines` • `Selenium` • `OpenAI API`
-
-### **Frameworks & Tools**
-`Flask` • `React` • `Next.js` • `Tailwind CSS` • `MySQL` • `Hadoop` • `Anaconda`
-
-### **DevOps**
-`Git` • `GitHub` • `GitLab` • `Streamlit Deployment`
+### 🧬 **Cognitive Replica & Digital Memory Preservation**  
+Developing concepts for long-term digital identity, memory capture & cognitive continuity.
 
 ---
 
-## 🎓 **Certifications**
-
-- **Oracle AI Foundations Associate (1Z0-1122-25)**  
-- **Oracle Generative AI Professional (1Z0-1127-25)**  
-- **EA Software Engineering Simulation — Forage**  
-- **Red Bull Sales Simulation — Forage**  
-- **Generative AI Engineering Mastermind (Outskill)**  
-
----
-
-## 🌱 **Volunteering — Helping Hand Foundation (Founder)**  
-- Organized tree plantations, winter clothing drives & food distribution  
-- Led fundraising to support underserved communities  
+# 🎓 Certifications  
+✔️ Oracle AI Foundations (1Z0-1122-25)  
+✔️ Oracle Generative AI Professional (1Z0-1127-25)  
+✔️ EA Software Engineering Simulation  
+✔️ Red Bull Sales Simulation  
+✔️ Outskill Generative AI Engineering Mastermind  
 
 ---
 
-## 🎮 **When I’m Not Coding…**
-
-I enjoy gaming, exploring emerging tech trends, experimenting with new AI tools, and thinking deeply about the future of digital consciousness.
-
----
-
-## ⭐ **GitHub Stats**
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hassan-xl" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-xl&layout=compact" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Hassan-xl&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-xl&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-## 📩 **Let’s Connect**
-
-If you’re interested in AI, cognitive systems, automation, or want to collaborate — feel free to reach out!
-
-📧 **jonnyxl2004@gmail.com**  
-🔗 **linkedin.com/in/hassanxl**
+# 🤝 Community & Volunteering  
+**Founder — Helping Hand Foundation**  
+Supporting communities through welfare, donations, and environmental initiatives.
 
 ---
+
+# 📫 Contact  
+📧 Email: **jonnyxl2004@gmail.com**  
+🔗 LinkedIn: **linkedin.com/in/hassanxl**
+
+---
+
+<p align="center">
+  <b>⭐ If you like my work, consider giving my repositories a star!</b>
+</p>
