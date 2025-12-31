@@ -68,6 +68,16 @@ Currently pursuing **BSc. Artificial Intelligence at PAF-IAST**, exploring the f
 
 # 🚀 Featured Projects
 
+### 🏠🌳👤 ** HTP Psychological Drawing Analysis**
+📌 *Flask + SocketIO*  
+🔗 https://github.com/Hassan-xl/ClassPulse-RealTime-Classroom-Engagement](https://github.com/Hassan-xl/HTP-Drawing-Analysis-using-YOLO-Vision-Models-RAG  
+This project is an AI-based system that analyzes House-Tree-Person (HTP) drawings and extracts psychological insights such as emotional state, family relationship, and social circle. The project combines computer vision, object detection, prompt engineering, and retrieval-augmented generation (RAG) to simulate the reasoning of an HTP psychologist.
+
+---
+---
+
+# 🚀 Featured Projects
+
 ### 🎓 **ClassPulse — Real-Time Classroom Engagement**
 📌 *Flask + SocketIO*  
 🔗 https://github.com/Hassan-xl/ClassPulse-RealTime-Classroom-Engagement  
